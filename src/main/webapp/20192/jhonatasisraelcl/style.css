@@ -33,7 +33,7 @@ section{
 	height: 100vh;
 	background:linear-gradient(to left, #DCDCDC	, #C0C0C0	);
 	z-index: -1;
-}
+}		
 
 .button {
     background-color: #C0C0C0;
